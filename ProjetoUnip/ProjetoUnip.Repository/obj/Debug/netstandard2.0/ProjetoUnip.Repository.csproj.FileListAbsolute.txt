@@ -1,0 +1,24 @@
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\bin\Debug\netstandard2.0\ProjetoUnip.Repository.deps.json
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\bin\Debug\netstandard2.0\ProjetoUnip.Repository.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\bin\Debug\netstandard2.0\ProjetoUnip.Repository.pdb
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\bin\Debug\netstandard2.0\ProjetoUnip.Domain.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\bin\Debug\netstandard2.0\ProjetoUnip.Domain.pdb
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.csprojAssemblyReference.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.csproj.CoreCompileInputs.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.AssemblyInfoInputs.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.AssemblyInfo.cs
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.csproj.CopyComplete
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.pdb
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.Repository\bin\Debug\netstandard2.0\ProjetoUnip.Repository.deps.json
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.Repository\bin\Debug\netstandard2.0\ProjetoUnip.Repository.dll
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.Repository\bin\Debug\netstandard2.0\ProjetoUnip.Repository.pdb
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.Repository\bin\Debug\netstandard2.0\ProjetoUnip.Domain.dll
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.Repository\bin\Debug\netstandard2.0\ProjetoUnip.Domain.pdb
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.Repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.csprojAssemblyReference.cache
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.Repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.csproj.CoreCompileInputs.cache
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.Repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.AssemblyInfoInputs.cache
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.Repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.AssemblyInfo.cs
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.Repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.csproj.CopyComplete
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.Repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.dll
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.Repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.pdb

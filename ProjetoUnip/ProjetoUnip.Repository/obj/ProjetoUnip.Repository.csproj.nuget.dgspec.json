@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "P:\\Programas\\OneDrive\\OneDrive - Fatec Centro Paula Souza\\Unip\\4-SEMESTRE\\PIM IV\\Projeto\\PimIV\\API\\ProjetoUnip\\ProjetoUnip.Repository\\ProjetoUnip.Repository.csproj": {}
+  },
+  "projects": {
+    "P:\\Programas\\OneDrive\\OneDrive - Fatec Centro Paula Souza\\Unip\\4-SEMESTRE\\PIM IV\\Projeto\\PimIV\\API\\ProjetoUnip\\ProjetoUnip.Domain\\ProjetoUnip.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Programas\\OneDrive\\OneDrive - Fatec Centro Paula Souza\\Unip\\4-SEMESTRE\\PIM IV\\Projeto\\PimIV\\API\\ProjetoUnip\\ProjetoUnip.Domain\\ProjetoUnip.Domain.csproj",
+        "projectName": "ProjetoUnip.Domain",
+        "projectPath": "P:\\Programas\\OneDrive\\OneDrive - Fatec Centro Paula Souza\\Unip\\4-SEMESTRE\\PIM IV\\Projeto\\PimIV\\API\\ProjetoUnip\\ProjetoUnip.Domain\\ProjetoUnip.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "P:\\Programas\\OneDrive\\OneDrive - Fatec Centro Paula Souza\\Unip\\4-SEMESTRE\\PIM IV\\Projeto\\PimIV\\API\\ProjetoUnip\\ProjetoUnip.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "P:\\Programas\\OneDrive\\OneDrive - Fatec Centro Paula Souza\\Unip\\4-SEMESTRE\\PIM IV\\Projeto\\PimIV\\API\\ProjetoUnip\\ProjetoUnip.Repository\\ProjetoUnip.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Programas\\OneDrive\\OneDrive - Fatec Centro Paula Souza\\Unip\\4-SEMESTRE\\PIM IV\\Projeto\\PimIV\\API\\ProjetoUnip\\ProjetoUnip.Repository\\ProjetoUnip.Repository.csproj",
+        "projectName": "ProjetoUnip.Repository",
+        "projectPath": "P:\\Programas\\OneDrive\\OneDrive - Fatec Centro Paula Souza\\Unip\\4-SEMESTRE\\PIM IV\\Projeto\\PimIV\\API\\ProjetoUnip\\ProjetoUnip.Repository\\ProjetoUnip.Repository.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "P:\\Programas\\OneDrive\\OneDrive - Fatec Centro Paula Souza\\Unip\\4-SEMESTRE\\PIM IV\\Projeto\\PimIV\\API\\ProjetoUnip\\ProjetoUnip.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "P:\\Programas\\OneDrive\\OneDrive - Fatec Centro Paula Souza\\Unip\\4-SEMESTRE\\PIM IV\\Projeto\\PimIV\\API\\ProjetoUnip\\ProjetoUnip.Domain\\ProjetoUnip.Domain.csproj": {
+                "projectPath": "P:\\Programas\\OneDrive\\OneDrive - Fatec Centro Paula Souza\\Unip\\4-SEMESTRE\\PIM IV\\Projeto\\PimIV\\API\\ProjetoUnip\\ProjetoUnip.Domain\\ProjetoUnip.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

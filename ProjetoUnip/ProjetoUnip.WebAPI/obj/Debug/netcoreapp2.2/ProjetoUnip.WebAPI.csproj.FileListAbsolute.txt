@@ -1,0 +1,52 @@
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.deps.json
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.runtimeconfig.json
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.runtimeconfig.dev.json
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.pdb
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.RazorAssemblyInfo.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.RazorAssemblyInfo.cs
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.AssemblyInfoInputs.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.AssemblyInfo.cs
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.pdb
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.API\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.csprojAssemblyReference.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.deps.json
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.runtimeconfig.json
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.runtimeconfig.dev.json
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.pdb
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.csprojAssemblyReference.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.RazorAssemblyInfo.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.RazorAssemblyInfo.cs
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.AssemblyInfoInputs.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.AssemblyInfo.cs
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.webapi\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.pdb
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.WebAPI\bin\Debug\netcoreapp2.2\ProjetoUnip.Domain.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.WebAPI\bin\Debug\netcoreapp2.2\ProjetoUnip.Repository.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.WebAPI\bin\Debug\netcoreapp2.2\ProjetoUnip.Repository.pdb
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.WebAPI\bin\Debug\netcoreapp2.2\ProjetoUnip.Domain.pdb
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.WebAPI\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.csproj.CopyComplete
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.deps.json
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.runtimeconfig.json
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.runtimeconfig.dev.json
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.dll
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\bin\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.pdb
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\bin\Debug\netcoreapp2.2\ProjetoUnip.Domain.dll
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\bin\Debug\netcoreapp2.2\ProjetoUnip.Repository.dll
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\bin\Debug\netcoreapp2.2\ProjetoUnip.Repository.pdb
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\bin\Debug\netcoreapp2.2\ProjetoUnip.Domain.pdb
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.csprojAssemblyReference.cache
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.csproj.CoreCompileInputs.cache
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.RazorAssemblyInfo.cache
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.RazorAssemblyInfo.cs
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.AssemblyInfoInputs.cache
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.AssemblyInfo.cs
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.RazorTargetAssemblyInfo.cache
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.csproj.CopyComplete
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.dll
+P:\Programas\OneDrive\OneDrive - Fatec Centro Paula Souza\Unip\4-SEMESTRE\PIM IV\Projeto\PimIV\API\ProjetoUnip\ProjetoUnip.WebAPI\obj\Debug\netcoreapp2.2\ProjetoUnip.WebAPI.pdb
